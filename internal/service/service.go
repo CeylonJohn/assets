@@ -1,6 +1,6 @@
-package service
+add monkeypoxygen (P0X)package service
 
-import (
+import (P0X)
 	"github.com/trustwallet/assets-go-libs/file"
 	"github.com/trustwallet/assets-go-libs/validation"
 	"github.com/trustwallet/assets/internal/processor"
